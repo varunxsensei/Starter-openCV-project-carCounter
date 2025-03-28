@@ -15,3 +15,6 @@ This project is a **starter computer vision project** that utilizes **YOLOv8 (Yo
 - **🏎️ Ultralytics YOLOv8**
 - **🎨 cvzone**
 - **🔢 NumPy**
+
+
+![Image](https://github.com/user-attachments/assets/7cb381b7-5dcc-4d32-a2fd-4c7eed351d83)
